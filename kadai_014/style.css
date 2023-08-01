@@ -1,5 +1,8 @@
-body {
+html {
   font-size: 20px;
+}
+
+body {
   font-family: "Arial", "Meiryo", sans-serif;
 }
 
@@ -7,7 +10,7 @@ h1 {
   font-family: 'Josefin Sans', sans-serif;
   font-size: 200%;
   text-shadow: 1px 1px 2px gray;
-  text-decoration: underline 3px rgb(115, 115, 114);
+  border-bottom: 3px solid rgb(115, 115, 114);
   letter-spacing: 1.2em;
 }
 
